@@ -1,6 +1,6 @@
 # tsc-alias-bug-demo
 
-Steps to reproduce https://github.com/justkey007/tsc-alias/issues/154:
+Steps to reproduce https://github.com/justkey007/tsc-alias/issues/169:
 
 1) Install dependencies
 ```sh
